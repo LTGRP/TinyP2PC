@@ -108,6 +108,9 @@ int32_t update_interval_modulus_delta = 2;
 // define to enable sending messages on this node
 //#define PRIVATEKEY
 
+// REPLACE KEYS !!!
+
+
 // public key for RSA encryption/decryption
 char publicKey[]="-----BEGIN PUBLIC KEY-----\n"\
 "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1Me+NX3ndWqDstrKR2Tj\n"\
