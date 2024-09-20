@@ -1,1 +1,1 @@
-sudo apt-get install libssl-dev gcc -y
+apt-get install libssl-dev gcc -y
